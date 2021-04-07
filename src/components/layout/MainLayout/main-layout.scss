@@ -1,0 +1,11 @@
+@media screen and (max-width: 576px) {
+  .mobileHidden {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .mobileShow {
+    display: none;
+  }
+}
